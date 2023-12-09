@@ -1,5 +1,5 @@
-# aicup-PPMDC（Privacy Protection and Medical Data Standardization Competition）
-
+# aicup-PPMDC
+---
 decode.ipynb 是製作訓練資料，以及處理predict.txt轉answer.txt
 ---
 aicup/data 是First_Phase_Text_Dataset + Validation_Release + Second_Phase_Dataset
